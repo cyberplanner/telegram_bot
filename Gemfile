@@ -6,3 +6,4 @@ group :development, :test do
   gem "byebug"
 end
 gem "telegram-bot-ruby"
+gem "dotenv-rails", :groups => [:development, :test]
